@@ -1,0 +1,18 @@
+body{
+    
+}
+.first{
+    background-color:gold;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+}
+#mid{
+    display:flex;
+}
+
+.first div{
+    margin:3px;
+    padding: 3px;
+}
